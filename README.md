@@ -56,3 +56,25 @@ It combines DSA problem tracking, interview management, weekly goals, and analyt
 ```bash
 git clone https://github.com/YOUR_USERNAME/devpath.git
 cd devpath
+
+2. Backend Setup
+cd backend
+npm install
+npm run dev
+
+
+Create a .env file:
+
+MONGO_URI=mongodb://localhost:27017/devpath
+JWT_SECRET=yourSecret123
+PORT=5000
+
+3. Frontend Setup
+cd ../frontend
+npm install
+npm run dev
+
+
+Frontend → http://localhost:5173
+
+Backend → http://localhost:5000
