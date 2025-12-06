@@ -7,34 +7,34 @@ It combines DSA problem tracking, interview management, weekly goals, and analyt
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🧩 DSA Problem Tracker
+### DSA Problem Tracker
 - Log problems with difficulty, topic, platform, status, and notes  
 - Track solved dates  
 - Filter by difficulty, topic, and status  
 - User-specific database entries
 
-### 💼 Interview Tracker
+###  Interview Tracker
 - Manage job applications (company, role, location, status)  
 - Next round date & notes  
 - Upcoming interview reminders (next 7 days)  
 - Status updates in one click
 
-### 🎯 Goals (Weekly / Monthly)
+###  Goals (Weekly / Monthly)
 - Set targets like “Solve 20 problems this week”  
 - Automatic progress calculation  
 - Completed / Failed / Active states  
 - Visual progress bars
 
-### 📊 Analytics Dashboard
+###  Analytics Dashboard
 - Problems solved this week  
 - Difficulty breakdown  
 - Topic distribution  
 - Charts using Recharts  
 - Upcoming interviews panel
 
-### 🔐 Authentication
+###  Authentication
 - JWT-based login  
 - Protected API routes  
 - Password hashing with bcrypt  
@@ -42,7 +42,7 @@ It combines DSA problem tracking, interview management, weekly goals, and analyt
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Frontend:** React (Vite), Tailwind CSS, Axios, Recharts  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT  
@@ -50,7 +50,7 @@ It combines DSA problem tracking, interview management, weekly goals, and analyt
 
 ---
 
-## 📦 Setup Guide
+##  Setup Guide
 
 ### 1. Clone the repo
 ```bash
