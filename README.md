@@ -1,6 +1,6 @@
 # devpath
 
-# DevPath — MERN Stack Interview Prep Tracker
+# DevPath — Interview Prep Tracker
 
 DevPath is a full-stack MERN application built to streamline technical interview preparation.  
 It combines DSA problem tracking, interview management, weekly goals, and analytics into one centralized dashboard.
